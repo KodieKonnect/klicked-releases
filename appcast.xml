@@ -3,12 +3,12 @@
   <channel>
     <title>Klicked</title>
     <item>
-      <title>Version 0.4.0</title>
-      <pubDate>Tue, 10 Nov 2026 20:20:54 -0600</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <title>Version 0.5.0</title>
+      <pubDate>Tue, 10 Nov 2026 20:41:45 -0600</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/KodieKonnect/klicked-releases/releases/download/v0.4.0/Klicked-0.4.0.dmg" type="application/octet-stream" sparkle:edSignature="R9e3AS9/0xLeLvdMgw3QE7GUDSU480fXeJwS5pX25T7oJyLWXObnHJ/FZHEP9JIiLp3/IXhwJGDnZx92A+ZrCw==" length="8294602" />
+      <enclosure url="https://github.com/KodieKonnect/klicked-releases/releases/download/v0.5.0/Klicked-0.5.0.dmg" type="application/octet-stream" sparkle:edSignature="rhrWwV+ZMOONbkoa90ySau23jpt9z12kqajuvuoWarNHyrWnhSDzL6r7THroTQdEizd+c7Ii12uICeE0xRXDBQ==" length="8371907" />
     </item>
   </channel>
 </rss>
